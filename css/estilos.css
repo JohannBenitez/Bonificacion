@@ -1,0 +1,19 @@
+
+div{
+    align-items:center ;
+}
+.centrar{
+    text-align: center;
+    
+}
+
+.flexContenedorCentrado{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.centrarLabel{
+    margin-left: 25%;
+    margin-right: 25%;
+   
+}
